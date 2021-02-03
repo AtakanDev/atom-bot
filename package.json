@@ -1,0 +1,21 @@
+{
+  "name": "atom",
+  "version": "1.0.1",
+  "description": "this is an bot for SCP:SL Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "/ping"
+  },
+  "author": "Twist#5322",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "avconv": "^3.1.0",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "steamapi": "^2.1.2",
+    "ytdl-core": "^4.4.0"
+  }
+}
